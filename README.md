@@ -13,7 +13,17 @@ Identities are used to authenticate and authorize access to resources, communica
 ``
 
 ### Authentication
-Authentication is the process of challenging a person, software component, or hardware device for credentials in order to verify their identity, or prove they're who or what they claim to be. ``Authentication typically requires the use of credentials`` (like username and password, fingerprints, certificates, or one-time passcodes). Authentication is sometimes shortened to AuthN.
+``Authentication is the process of challenging a person, software component, or hardware device for credentials in order to verify their identity, or prove they're who``
+
+``Authentication typically requires the use of credentials`` (like username and password, fingerprints, certificates, or one-time passcodes). Authentication is sometimes shortened to AuthN.
+
+``Multi-factor authentication (MFA) is a security measure that requires users to provide more than one piece of evidence to verify their identities, such as:``
+
+``Something they know, for example a password.``
+
+``Something they have, like a badge or security token.``
+
+``Something they are, like a biometric (fingerprint or face).``
 
 
 ### Authorization
