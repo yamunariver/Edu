@@ -1,6 +1,5 @@
 ```sh
 https://learn.microsoft.com/en-gb/entra/fundamentals/identity-fundamental-concepts
-
 ```
 
 
