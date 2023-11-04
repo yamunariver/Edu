@@ -22,4 +22,7 @@ Authorization validates that the user, machine, or software component has been g
 ### Authentication vs. authorization
 
 ``Authentication proves the identity of a user, machine, or software component.``
+
 ``Authorization grants or denies the user, machine, or software component access to certain resources.``
+
+
