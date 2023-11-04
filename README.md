@@ -1,3 +1,6 @@
+```shhttps://learn.microsoft.com/en-gb/entra/fundamentals/identity-fundamental-concepts```
+
+
 ### Identity
 A digital identity is a collection of unique identifiers or attributes that represent a human, software component, machine, asset, or resource in a computer system. An identifier can be:
 
