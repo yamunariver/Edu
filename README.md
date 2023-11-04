@@ -7,7 +7,6 @@ Bank account number
 Government issued ID
 MAC address or IP address
 ``
-
 ``
 Identities are used to authenticate and authorize access to resources, communicate with other humans, conduct transactions, and other purposes.
 ``
