@@ -14,3 +14,12 @@ Identities are used to authenticate and authorize access to resources, communica
 
 ### Authentication
 Authentication is the process of challenging a person, software component, or hardware device for credentials in order to verify their identity, or prove they're who or what they claim to be. ``Authentication typically requires the use of credentials`` (like username and password, fingerprints, certificates, or one-time passcodes). Authentication is sometimes shortened to AuthN.
+
+
+### Authorization
+Authorization validates that the user, machine, or software component has been granted access to certain resources. Authorization is sometimes shortened to AuthZ.
+
+### Authentication vs. authorization
+
+``Authentication proves the identity of a user, machine, or software component.``
+``Authorization grants or denies the user, machine, or software component access to certain resources.``
